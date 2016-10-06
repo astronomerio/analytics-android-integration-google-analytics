@@ -1,1 +1,1 @@
-<manifest package="com.segment.analytics.android.integrations.google.analytics"/>
+<manifest package="io.astronomer.analytics.android.integrations.google.analytics"/>
